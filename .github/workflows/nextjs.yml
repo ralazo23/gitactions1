@@ -3,7 +3,7 @@ name: Crear Archivo y Saludar
 on:
   push:
     branches:
-      - '*'
+      - 'Dev'
 
 jobs:
   create_file_and_greet:
